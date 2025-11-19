@@ -1,5 +1,7 @@
-# MarkovJunior Godot Addon
-
+# MarkovJunior Godot Addon AKA MarkovGunior
+MarkovGunior is a 100% gdscript port of the well known work Markov Junior from mxgmm, in theory it already can do everything the original can, but using only code, in runtime
+need some more time to test =) enjoy
+#
 This addon provides a code-first, in-memory procedural generation toolkit for Godot projects inspired by MarkovJunior. Everything runs entirely inside GDScript and operates on character grids, making it easy to drive tilemaps, textures, or gameplay logic without relying on XML manifests or external files.
 
 ## Installation
